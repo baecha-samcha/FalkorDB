@@ -1,3 +1,5 @@
+> **포크 안내:** 이 저장소는 [FalkorDB/FalkorDB](https://github.com/FalkorDB/FalkorDB)의 포크입니다. 일반 사용과 최신 설치 안내는 원본 프로젝트를 먼저 확인하세요. 아래는 원본의 프로젝트 소개와 기술 문서입니다.
+
 <div align="center">
   <img width="100" height="100" alt="FalkorDB Logo Square B" src="https://github.com/user-attachments/assets/ec67e5e3-a060-405d-b229-1fe2badcf8ad" />
 </div>
@@ -18,7 +20,7 @@
     <img src="https://img.shields.io/docker/pulls/falkordb/falkordb?label=Docker" alt="Dockerhub" />
   </a>
   <a href="https://codecov.io/gh/FalkorDB/FalkorDB">
-    <img src="https://codecov.io/gh/FalkorDB/FalkorDB/branch/main/graph/badge.svg?token=0G4HBEJMW0" alt="codecov" />
+    <img src="https://codecov.io/gh/FalkorDB/FalkorDB/branch/main/graph/badge.svg" alt="codecov" />
   </a>
   <a href="https://github.com/FalkorDB/FalkorDB/actions/workflows/rust-push.yml">
     <img src="https://github.com/FalkorDB/FalkorDB/actions/workflows/rust-push.yml/badge.svg?branch=main" alt="Rust" />
